@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** No classes from tomorrow onwards.. Brushup your self **** </h1>   
+         <h1> **** we will start dockor on monday.. Brushup your self **** </h1>   
 	 
 
     </section>    
