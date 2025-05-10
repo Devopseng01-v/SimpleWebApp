@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** flipkart offers available till may 31 **** </h1>   
+         <h1> **** flipkart offers available till monthend **** </h1>   
 	 
 
     </section>    
